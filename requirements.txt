@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yfinance
+requests
+beautifulsoup4
+pydantic
+selenium
+webdriver-manager
